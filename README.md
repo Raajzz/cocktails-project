@@ -1,3 +1,9 @@
+# Cocktails Project
+
+A simple react-tailwind application that uses the [cocktails api](https://www.thecocktaildb.com/api.php) 
+This application had been manually deployed onto netlify, you can find it [here](https://cocktails-project-raaj.netlify.app/)
+The application shall be deployed via github in the future.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
